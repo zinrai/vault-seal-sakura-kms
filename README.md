@@ -34,7 +34,7 @@ seal "transit" {
 }
 ```
 
-`key_name` is the KMS key resource ID. It may instead come from `VAULT_TRANSIT_SEAL_KEY_NAME` in the Vault server's environment.
+`key_name` is the KMS key resource ID, the same as `SAKURA_KMS_KEY_ID`.
 
 Vault does not start while the socket is unreachable. It starts, and unseals, once vault-seal-sakura-kms is running.
 
