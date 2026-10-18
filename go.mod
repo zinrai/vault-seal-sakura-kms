@@ -5,7 +5,7 @@ go 1.26.3
 require (
 	github.com/hashicorp/go-kms-wrapping/v2 v2.0.26
 	github.com/hashicorp/go-kms-wrapping/wrappers/transit/v2 v2.0.13
-	github.com/sacloud/sacloud-sdk-go v0.3.0
+	github.com/sacloud/sacloud-sdk-go v0.3.1
 )
 
 require (
@@ -46,7 +46,7 @@ require (
 	go.uber.org/zap v1.28.0 // indirect
 	golang.org/x/crypto v0.57.0 // indirect
 	golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f // indirect
-	golang.org/x/net v0.58.0 // indirect
+	golang.org/x/net v0.59.0 // indirect
 	golang.org/x/sync v0.23.0 // indirect
 	golang.org/x/sys v0.48.0 // indirect
 	golang.org/x/text v0.42.0 // indirect
