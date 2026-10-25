@@ -5,7 +5,7 @@ go 1.26.3
 require (
 	github.com/hashicorp/go-kms-wrapping/v2 v2.0.26
 	github.com/hashicorp/go-kms-wrapping/wrappers/transit/v2 v2.0.13
-	github.com/sacloud/sacloud-sdk-go v0.3.1
+	github.com/sacloud/sacloud-sdk-go v0.4.0
 )
 
 require (
@@ -18,6 +18,7 @@ require (
 	github.com/go-faster/jx v1.2.0 // indirect
 	github.com/go-faster/yaml v0.4.6 // indirect
 	github.com/go-jose/go-jose/v3 v3.0.3 // indirect
+	github.com/goccy/go-yaml v1.19.2 // indirect
 	github.com/gofrs/flock v0.13.1 // indirect
 	github.com/golang-jwt/jwt/v5 v5.3.1 // indirect
 	github.com/google/uuid v1.6.0 // indirect
