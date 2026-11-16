@@ -5,7 +5,7 @@ go 1.26.3
 require (
 	github.com/hashicorp/go-kms-wrapping/v2 v2.0.26
 	github.com/hashicorp/go-kms-wrapping/wrappers/transit/v2 v2.0.13
-	github.com/sacloud/sacloud-sdk-go v0.5.0
+	github.com/sacloud/sacloud-sdk-go v0.6.0
 )
 
 require (
